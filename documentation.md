@@ -6,6 +6,7 @@ Assessment 2: Responsive website on a real world problem
 
 Thesis: Homeless and the hungry
  I. Documentation
+   
    1. Wireframes
    2. Color Choices
         I chose various shades of purple as purple is the awareness color that represents homelessness. According to Personalized Cause, [Reference (1)] the awareness week for the homeless and the hungry lies usually during the week before Thanksgiving as it is the perfect time to remember that many of us are blessed to have a roof over our heads and bread to eat. The week in the month of November that is dedicated to the hungry and homeless, draws attention to the problem of poverty and raises hope in working towards a world without this sorrowful issue.
