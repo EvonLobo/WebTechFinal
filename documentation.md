@@ -4,7 +4,7 @@ Unit Leader: Mr. Joseph Appleton
 
 Assessment 2: Responsive website on a real-world problem 
 
-Link to the Github Repo: https://github.com/EvonLobo/FinalProject.git.
+Link to the Github Repo: https://github.com/EvonLobo/WebTechFinal.git
 
 Thesis: Homelessness
 
