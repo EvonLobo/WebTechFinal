@@ -54,8 +54,6 @@ II. References
 
    2. Photo by Sharon McCutcheon on Unsplash
 
-   3. https://www.homeless.org.uk/facts/understanding-homelessness/causes-of-homelessness. 
+   3. https://www.homeless.org.uk/facts/understanding-homelessness.
 
-   4. https://www.homeless.org.uk/facts/understanding-homelessness/impact-of-homelessness.  
-
-   5. https://www.bigissue.com/latest/britains-homelessness-shame-cold-hard-facts/.
+   4. Geraghty, Liam. November 24, 2017. Britain’s homelessness shame: The cold hard facts. [Viewed on: April 23 2019]. Available from: https://www.bigissue.com/latest/britains-homelessness-shame-cold-hard-facts/. 
